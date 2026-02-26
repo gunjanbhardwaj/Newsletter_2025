@@ -232,37 +232,19 @@ Dr. Munish Rattan
 
 | Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
 |:--------|:----------------|:--------------|:---------|:--------|:---------------------|
-| 1 | Preeti Pannu | One week FDP on IOT and Ubiquitous Computing for Emerging Technical Applications (ISTE approved) | 1 week | 26-08-2024 to 30-08-2024 | Vidyalankar Polytechnic, Staff Development Committee |
-| 2 | Preeti Pannu | One week STC on Microstrip Patch Antenna Design Techniques and Tools | 1 week | 16-09-2024 to 20-09-2024 | NITTTR, Chandigarh |
-| 3 | Preeti Pannu | Two week FDP on Reconfigurable FPGA and Internet of Things | 2 weeks | 21-04-2025 to 02-05-2025 | E&ICT Academy PDPM IIITDM Jabalpur |
-| 4 | Preeti Pannu | One day workshop on SWAYAM NPTEL | 1 Day | 17-04-2025 | IIT Kanpur at GNDEC Ludhiana |
-| 5 | Preeti Pannu | Demonstration on how to access IEEE and EBSCO journals in Digital Library | 1 Day | 12-05-2025 | GNDEC Ludhiana |
-| 6 | Preeti Pannu | Webinar on "Truth in AI Systems" by Prof. Naveen Kumar | 1 Day | 30-05-2025 | I.K. Gujral Punjab Technical University, Office of Dean (R&D) |
-| 7 | Harminder Kaur D/o S. Avtar Singh | IOT and Ubiquitous Computing for Emerging Technical Applications | 5 Days | 26-08-2024 to 30-08-2024 | Vidyalankar Polytechnic College (ISTE Approved), New Delhi |
-| 8 | Harminder Kaur D/o S. Avtar Singh | Reconfigurable FPGA and Internet of Things | 2 Weeks | 21-04-2025 to 02-05-2025 | Electronics and ICT Academy (Phase-II), PDPM IIITDM Jabalpur |
-| 9 | Narwant Singh Grewal | Python for Data Sciences (NPTEL) | 4 Weeks | July-August 2024 | IIT Madras |
-| 10 | Gurjot Kaur Walia | UGC Zonal Conference on "Implementation on NEP 2020" | 1 Day | 02-12-2024 | DAVV, Indore |
-| 11 | Gurjot Kaur Walia | Future-Proofing India's Semiconductor Industry: Building a Skilled Workforce | 1 Week | 16-12-2024 to 21-12-2024 | GNDEC Ludhiana |
-| 12 | Gurjot Kaur Walia | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 Week | 10-02-2025 to 15-02-2025 | MM Engineering College, Mullana-Ambala |
-| 13 | Navneet Kaur | Workshop on “Photonic Sensors for Biosensing Applications” | 3 Days | 17-10-2024 to 19-10-2024 | ISM, Dhanbad |
-| 14 | Navneet Kaur | UGC Zonal Conference on "Implementation on NEP 2020" | 1 Day | 02-12-2024 | DAVV, Indore |
-| 15 | Navneet Kaur | AICTE ATAL FDP on "Future Tech Revealed: Semiconductors, Quantum Computing, and Data Storage Insights" | 1 Week | 20-01-2025 to 25-01-2025 | COEP Technological University |
-| 16 | Navneet Kaur | AICTE ATAL FDP on “Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025)” | 1 Week | 10-02-2025 to 15-02-2025 | MM Engineering College, Mullana-Ambala |
-| 17 | Navneet Kaur | International Conference on “Indian Knowledge System: From Glorious Past to Bright Future" | 2 Days | 04-04-2025 to 05-04-2025 | Maharaja Agrasen University, IKGPTU & Baba Mastnath University |
-| 18 | Navneet Kaur | One day workshop "ISRO Academia Connect for Northern Region" | 1 Day | 08-04-2025 | NIT Kurukshetra |
-| 19 | Gurpurneet Kaur | ISTE Approved One Week Online FDP on IOT and Ubiquitous Computing for Emerging Technical Applications | 1 Week | 26-08-2024 to 30-08-2024 | Vidyalankar Polytechnic College, Mumbai |
-| 20 | Gurpurneet Kaur | Future-Proofing India's Semiconductor Industry: Building a Skilled Workforce | 1 Week | 16-12-2024 to 21-12-2024 | GNDEC Ludhiana |
-| 21 | Kuldeepak Singh | AI for Engineering Applications | 1 Week | 04-11-2024 to 08-11-2024 | NITTTR, Chandigarh |
-| 22 | Kuldeepak Singh | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 Week | 10-02-2025 to 15-02-2025 | MM Engineering College, Mullana-Ambala |
-| 23 | Harminder Kaur D/o Avtar Singh | International Conference on Sustainable Developments in Computational Optimization and Intelligent Systems | 2 Days | 24-04-2025 to 25-04-2025 | BGIET, Sangrur |
-| 24 | Daljit Singh | AI for Engineering Applications | 1 Week | 04-11-2024 to 08-11-2024 | NITTTR, Chandigarh |
-| 25 | Daljit Singh | Drone Technologies, Opportunities and Regulations | 1 Week | 18-11-2024 to 22-11-2024 | NITTTR, Chandigarh |
-| 26 | Daljit Singh | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 Week | 10-02-2025 to 15-02-2025 | MM Engineering College, Mullana-Ambala |
-| 27 | Simranjit Kaur | STC on "Microstrip Patch Antenna Design Techniques and Tools" | 1 Week | 16-09-2024 to 20-09-2024 | NITTTR, Chandigarh |
-| 28 | Simranjit Kaur | ATAL FDP on "Future-Proofing India's Semiconductor Industry: Building a Skilled Workforce" | 1 Week | 16-12-2024 to 21-12-2024 | GNDEC Ludhiana |
-| 29 | Simranjit Kaur | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 Week | 10-02-2025 to 15-02-2025 | MM Engineering College, Mullana-Ambala |
-| 30 | Simranjit Kaur | Workshop on "IP Blueprint: Navigating Intellectual Property" | 1 Day | 15-04-2025 | Sponsored by Punjab State Council, GNDEC Ludhiana |
-| 31 | Harleen Kaur | FDP on Computer Vision in Autonomous Driving | 1 Week | 24-02-2025 to 28-02-2025 | VIT, Chennai |
+| 1     | Expert Talk on PLC by Satnam Singh                | Dr. Shivmanmeet Singh | 1 day    | 14-08-2024      | IETE GNDEC                      |
+| 2     | Core Team Meeting                                 | Dr. Shivmanmeet Singh | 1 day    | 20-08-2024      | IETE GNDEC                      |
+| 3     | Workshop on Cyber Security                         | Dr. Shivmanmeet Singh | 1 day    | 03-09-2024      | IETE GNDEC                      |
+| 4     | Hands on Experience                               | Dr. Shivmanmeet Singh | 1 day    | 11-10-2024      | IETE GNDEC                      |
+| 5     | Digital Artistry                                  | Dr. Shivmanmeet Singh | 1 day    | 14-10-2024      | IETE GNDEC                      |
+| 6     | 2-day Workshop                                   | Dr. Shivmanmeet Singh | 2 days   | 28-10-2024      | IETE GNDEC                      |
+| 7     | 3D-Printing Workshop                             | Dr. Shivmanmeet Singh | 1 day    | 13-11-2024      | IETE GNDEC                      |
+| 8     | Technova                                         | Dr. Shivmanmeet Singh | 1 day    | 25-11-2024      | IETE GNDEC                      |
+| 9     | Electrified Quizzers                             | Dr. Shivmanmeet Singh | 1 day    | 03-02-2025      | IETE GNDEC                      |
+| 10    | Mobile Chipset Repair Workshop                   | Dr. Shivmanmeet Singh | 1 day    | 11-04-2025      | IETE GNDEC                      |
+| 11    | Guess-a-graphy                                   | Dr. Shivmanmeet Singh | 1 day    | 23-04-2025      | IETE GNDEC                      |
+| 12    | Visit to PEC                                     | Dr. Shivmanmeet Singh | 1 day    | 26-03-2025      | IETE GNDEC                      |
+| 13    | One Week Short Term Course on “AI applications in VLSI design” | Dr. Chahat Jain       | 5 days   | July 14-18, 2025 | NITTTR Chandigarh and GNDEC     |
 
 ## Expert Lecture delivered
 
