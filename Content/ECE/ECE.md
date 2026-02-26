@@ -259,12 +259,17 @@ Dr. Munish Rattan
 -Prof. Shivmanmeet Singh (ISF Secretary)
 
 -----------------------------------------
-### Expert Lecture on PLC for Industrial applications
 
-![Arduino and Soldering](Images/AS2.jpg)
+### Project Exhibition
+## Expert Lecture on PLC for Industrial Applications
 
-- <div align="jutify"> The PLC workshop usually begins with an introductory session, where participants are briefed on the importance of PLCs in modern industrial processes. The session outlines how PLCs are used to automate various industrial operations, ranging from simple machine functions to complex processes involving multiple sensors and actuators. Participants are introduced to the basic architecture of PLCs, includingthe central processing unit (CPU), memory, input/output (I/O) modules, and communication interfaces.</div>### Hands on experience on Soldering and Desoldering
-![Gusto Knack](Images/GKposter.jpg)
+![Advisor Session (Machine)](Images/PLCposter.png)
+
+![Advisor Session (Machine)](Images/PLC1.png)
+
+![Advisor Session (Machine)](Images/PLC2.png)
+
+- <div align="jutify"> The PLC workshop usually begins with an introductory session, where participants are briefed on the importance of PLCs in modern industrial processes on 14 Aug 2024. The session outlines how PLCs are used to automate various industrial operations, ranging from simple machine functions to complex processes involving multiple sensors and actuators. Participants are introduced to the basic architecture of PLCs, includingthe central processing unit (CPU), memory, input/output (I/O) modules, and communication interfaces.</div>
 
 -----------------------------------------
 ### Hands on experience on Soldering and Desoldering
@@ -290,20 +295,26 @@ digital poster on a chosen topic within a specified timeframe.</div>
 - <div align="jutify">ISF successfully hosted a two-day workshop on “Digital Electronics and VHDL” on 28th and 29th October 2024. The workshop offered in-depth coverage of key topics such as combinational circuit design and its real-time applications, signal conversion between analog and digital signals, and programming and design using VHDL</div>
 
 -----------------------------------------
-### Two days workshop on 3D Printing:Peer to Peer Learning
-
-![Advisor Session (Wireless Communication)](Images/WC2.jpg)
-
-- <div align="jutify">ISF conducted a two-day workshop on *3D Printing,held on November 11, 2023, and November 13, 2024. On the first day,participants were guided to create sketches using AutoCAD software. A select group of students were shortlisted based on their performance. On the second day, these shortlisted students utilized 3D printers to transform their sketches into tangible 3D models. This workshop served as a hands-on learning experience, fostering innovation
-and technical excellence among participants </div>
-
------------------------------------------
 ### Technova
 
 ![Advisor Session (Wireless Communication)](Images/WC2.jpg)
 
 - <div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to
 showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges. </div>
+
+-----------------------------------------
+### Electrified Quizzer
+
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+
+- <div align="jutify">ISF hosted a Fun-Techno event titled "Electrified Quizzers" on February 3, 2025. During this event, participants were grouped into teams of two. In the first round, the teams were asked to answer 30 electronics-based questions, with a time limitof 10 seconds per question. The top five teams were selected to proceed to the second round, where participants competed individually to solve 20 questions,again with a 10-second time limit per question. From this round, the top five students were chosen and invited to the final round, where they had to answer 10 questions. This event was designed to challenge students' knowledge and quick thinking while promoting a spirit of friendly competition.</div>
+
+-----------------------------------------
+### Visit to 5G Communication Lab
+
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+
+- <div align="jutify">The IETE Students’ Forum (ISF) organized a visit to Punjab Engineering College, Chandigarh, on March 26, 2025, to explore the 5G Communication Lab. The visit provided valuable insights into cutting-edge advancements in 5G technology and its applications .The visit to PEC , Chandigarh. It was aimed at enhancing our understanding of 5G technology and exploring the development of diverse bandwidth networks.</div>
 
 -----------------------------------------
 ### Guess-a-Graphy
@@ -322,64 +333,8 @@ showcase their ideas, strengthen their communication skills, and receive constru
 
 - <div align="jutify"> The IETE Students’ Forum (ISF) at Guru Nanak Dev Engineering College, Ludhiana,hosted a practical and informative workshop on Mobile Chipset Repairing and Software Automation on 11th April 2025.The session was expertly conducted by Mr. Harjot and Mr Abishek, specialists in mobile chipset repair and embedded systems. He provided an in-depth demonstration of chip-level repair techniques, showcasing the use of professional equipment such as digital microscopes, and diagnostic software. A significant portion of the workshop focused on the Apple A13 Bionic chipset, where participants examined its architecture, identified critical components on the motherboard, and explored rework methods commonly applied in modern smartphone servicing. In addition, the workshop covered practical aspects of soldering and desoldering components on the logic board, along with guidance on how iPhone servicing is professionally carried out, including common troubleshooting workflows and repair practices followed in industry labs.</div>
 
-
-### Code Debugging
-
-![Advisor Session (code)](Images/CDposter.jpg)
-
-![Advisor Session (code)](Images/CD1.jpg)
-
-![Advisor Session (code)](Images/CD2.jpg)
-
-- <div align="jutify">This event was conducted on 02nd February 2024.In this event; in the first round the participants were provided with codes in basic programming languages with errors in them and the participants had to find out the errors in those codes. This round was comparatively kept a little easy than the second round. The selected participants from the first round were forwarded to second round. With  higher difficulty, the errors had to be found in the given codes. Three winners were selected on the basis of the higher score.</div> 
-
-----------------------------------------
-### Flash Fiesta- A peer to peer learning on Photography
-
-![Advisor Session (Flash)](Images/FFposter.jpg)
-
-![Advisor Session (Flash)](Images/FF1.jpg)
-
-![Advisor Session (Flash)](Images/FF2.jpg)
-
-- <div align="jutify">This event was organized on 09th February 2024. This event  was led by our Co-Convenor DhairyaSobti. He shared his immense knowledge in Photography. He shared with us great knowledge about lens , about different camera settings and a lot more. Following which; we followed up a photography competition to test the knowledge taken in. The three winners were selected accordingly.</div> 
-
-------------------------------------------
-### Problem Poster Debate 
-
-![Advisor Session (Problem)](Images/PPDposter.jpg)
-
-![Advisor Session (Problem)](Images/PPD1.jpg)
-
-![Advisor Session (Problem)](Images/PPD2.jpg)
-
-- <div align="jutify">This event was organized in Anand Utsav’s Technomelaon  6th March 2024.A team of three members was made. This was a three round event. In the first round , a problem related to technology or society was provided to the team and they had to find a solution to the given problem in the specified time period. In the second round; a poster representing the problem’s solution had to be made. In the third round; The teams engaged in a debate where they defend their proposed solutions. The teams that stood out in the three rounds were awarded 1st, 2nd and 3rd position accordingly.</div> 
-
-------------------------------------------
-### Expert Talk on Machine Learning and its application using python 
-
-![Advisor Session (Machine)](Images/MLposter.png)
-
-![Advisor Session (Machine)](Images/ML1.png)
-
-![Advisor Session (Machine)](Images/ML2.png)
-
-
-- <div align="jutify">This event was organized on 20th March 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one.</div>
-
 -------------------------------------------
-### Project Exhibition
-## Expert Lecture on PLC for Industrial Applications
 
-![Advisor Session (Machine)](Images/PLCposter.png)
-
-![Advisor Session (Machine)](Images/PLC1.png)
-
-![Advisor Session (Machine)](Images/PLC2.png)
-
-- <div align="jutify">This event was organized on 14th August 2024.The event was graced by tutors Satnam Singh and Rajjot Singh. The speakers were well versed with the topic and their great knowledge was so helpful to us in getting detailed knowledge of the topic. The different experiments and projects were helpful in better understanding. We even saw hardware parts of the plc used in industrial applications.</div>
-
--------------------------------------------
 ### Workshop on Cyber Security with Shell Scripting Automation 
 
 ![Advisor Session (Machine)](Images/CSposter.png)
@@ -400,7 +355,6 @@ showcase their ideas, strengthen their communication skills, and receive constru
 ![Advisor Session (Machine)](Images/SD2.jpeg)
 
 - <div align="jutify">This event was organized on 11th October 2024.This event was led and supervised by Prof. Shivmanmeet Singh. The event was coordinated by Savnoor Channi(Convenor ISF) and Dhairya Sobti(Co-Convenor ISF).Sir first talked about Soldering and Desoldering. Then a hands on training was done and all the participants did also practice soldering and desoldering.</div>
-
 ----------------------------------------------
 ### Digital Artistry
 
