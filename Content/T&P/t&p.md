@@ -46,23 +46,6 @@ In addition to corporate internships, students also gained prestigious research 
 
 ---
 
-## 📊 Placement Snapshot 2024–2025
-
-<div align="center">
-
-| Metric | Details |
-|------|---------|
-| Highest Package Offered | ₹12 LPA (Trident Group) |
-| Top Recruiters | Trident Group, Josh Technology Group, TCS, Argusoft, Stylumia, UltraTech Cement, Larsen & Toubro |
-| Premium Offers | ₹9 LPA (TCS Prime), ₹11.3 LPA (Josh Technology Group) |
-| Major IT Recruiters | TCS, Cognizant, Capgemini, Infosys, Argusoft, Stylumia |
-| Core Sector Recruiters | UltraTech Cement, SML ISUZU Ltd., Larsen & Toubro Ltd., Mahindra & Mahindra Ltd. |
-| Internship Stipend Range | ₹2,000 – ₹30,000 per month |
-| Research Internship Institutes | IIT Gandhinagar, IIIT Guwahati, NIT Meghalaya, IIIT Una, NITTTR Chandigarh |
-
-</div>
-
----
 
 ## Major Recruiters
 
@@ -130,62 +113,78 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 
 ## Placement Insights
 
-| Company Name                                     | Package(LPA)          |
-|------------------------------------------------|-----------------------|
-| TCS Prime                                        | 9                    |
-| Argusoft                                         | 7.12                 |
-| Stylumia Intelligence Technology Pvt. Ltd.       | 7                    |
-| TCS (Digital)                                    | 7                    |
-| Ultra Tech Cement Ltd                            | 6.5                  |
-| 75way Technologies Pvt. Ltd.                     | 6                    |
-| Larsen & Toubro Limited                          | 6                    |
-| Nebero Systems Private Limited                   | 6                    |
-| Vodafone Idea                                    | 6                    |
-| Cargill                                          | 5.66                 |
-| Airtel                                           | 5.57                 |
-| SRVA Education                                   | 5.46                 |
-| JMAN Group                                       | 5                    |
-| KPMG                                             | 5                    |
-| Kent RO                                          | 4.8                  |
-| ShortHill Tech                                   | 4.8                  |
-| BizMerlin HR.                                    | 4.82                 |
-| Shapoorji Palloni & Co, Ltd                      | 4.25                 |
-| Mahindra & Mahindra Ltd.                         | 4.2                  |
-| SafeAeon Inc.                                    | 4.2                  |
-| Capgemini                                        | 4                    |
-| Cognizant                                        | 4                    |
-| Kion Group-Dematic                               | 4                    |
-| Corizo                                           | 4                    |
-| IndiaMart IndiaMesh Ltd.                         | 3.6                  |
-| Amber Enterprises                                | 3.5                  |
-| WITS INNOVATION LAB                              | 3.5                  |
-| Vardhman Special Steels Ltd.                     | 3.38                 |
-| RDC Concrete (India) Pvt. Ltd.                   | 3.36                 |
-| TCS (Ninja)                                      | 3.36                 |
-| Consort Builders Pvt. Ltd.                       | 3.24                 |
-| Ralson (India) Limited                           | 3.24                 |
-| Zydex Industries Private Limited                 | 3.2                  |
-| Spectrum Automation & Controls                   | 3.18                 |
-| Continental Engineering Consultants              | 3                    |
-| Genius Masters                                   | 3                    |
-| Happy Forgings Limited                           | 3                    |
-| International Tractors Limited                   | 3                    |
-| NUHOME FURNISHINGS                               | 3                    |
-| Pearce Services Global, Mohali                   | 3                    |
-| Ultafine                                         | 3                    |
-| HMC E-Valley Pvt. Ltd.                           | 2.64                 |
-| NAHAR INDUSTRIAL ENTERPRISES LIMITED             | 2.64                 |
-| Brosis International                             | 2.64                 |
-| Freeman Group                                    | 2.58                 |
-| Hero Ecotech                                     | 2.52                 |
-| DNK Chemicals & Coatings Pvt. Ltd.               | 2.5                  |
-| Volkswagen Lally Motors Ludhiana                 | 2.4                  |
-| AlphaNumeric Ideas Pvt. Ltd                      | 2.4                  |
-| Spectrum Talent Management Limited               | 2.4                   |
-| Relinns Technologies Pvt. Ltd.                   | 2.31                 |
-| New Era Machines                                 | 2.3                  |
-| Deepak Fasteners                                 | 2.16                 |
-| Rama Steel Forge Ludhiana                        | 2.16                 |
+| Company Name                                                     | Package (LPA) |
+|------------------------------------------------------------------|---------------|
+| Josh Technology Group                                           | 11.3          |
+| Infosys Limited (Specialist Programmer - L1)                   | 10            |
+| Argusoft India Ltd.                                            | 7.12          |
+| DENSO International India Pvt. Ltd.                            | 6.9           |
+| Cognizant Technology Solutions (GenC Next Select)              | 6.75          |
+| Century Plyboards (I) Ltd.                                     | 6.5           |
+| PlanetSpark                                                    | 6.5           |
+| Infosys Limited (Digital Specialist Engineer)                  | 6.25          |
+| Nebero Systems Pvt. Ltd.                                       | 6             |
+| Stellaraa Edutech Pvt. Ltd.                                    | 6             |
+| Bharti Airtel Limited                                          | 5.5           |
+| Glowlogics Solutions Pvt. Ltd.                                 | 5.2           |
+| ClayHR                                                         | 5.18          |
+| 75way Technologies Ltd.                                        | 5             |
+| ElectroMech Material Handling Systems (India) Pvt. Ltd.       | 5             |
+| Pigeon Education Technology India Private Limited              | 5             |
+| HDFC Life Insurance Company Limited                            | 4.75          |
+| VenturePact                                                    | 4.63          |
+| ITC Limited                                                    | 4.62          |
+| Rockman Industries Limited                                     | 4.5           |
+| Vardhman Special Steels Limited                                | 4.5           |
+| Vardhman Textiles Limited                                      | 4.5           |
+| HCL Technologies Limited                                       | 4.25          |
+| Accelor Microsystems                                           | 4.2           |
+| Mahindra Swaraj (Mahindra & Mahindra Ltd.)                    | 4.2           |
+| MeritHub Technologies Pvt. Ltd.                                | 4.2           |
+| SafeAeon Inc.                                                  | 4.2           |
+| Antier Solutions Pvt. Ltd.                                     | 4             |
+| Cognizant Technology Solutions (GenC Pro Select)              | 4             |
+| Cognizant Technology Solutions (GenC Select)                  | 4             |
+| Mehta Hitech Industries Limited                               | 4             |
+| Shapoorji Pallonji & Company Private Limited                  | 4             |
+| Homelife Buildcon Pvt. Ltd.                                   | 3.84          |
+| eNest Technologies Pvt. Ltd.                                  | 3.75          |
+| ATS HomeKraft                                                 | 3.6           |
+| HomeKraft Infra Pvt. Ltd.                                     | 3.6           |
+| IndiaMART InterMESH Ltd.                                      | 3.6           |
+| Infosys Limited                                               | 3.6           |
+| RDC Concrete (India) Pvt. Ltd.                                | 3.6           |
+| Wits Innovation Lab                                           | 3.6           |
+| Agile Capital Services                                        | 3.5           |
+| House of Aarch                                                | 3.5           |
+| Prime Steel Processors                                        | 3.45          |
+| Arora Iron & Steel Rolling Mills Pvt. Ltd.                   | 3.36          |
+| Consort Builders Pvt. Ltd.                                    | 3.24          |
+| Guru Nanak Auto Enterprises Limited                           | 3.24          |
+| Ralson (India) Limited                                        | 3.24          |
+| KGOC Global                                                   | 3.17          |
+| A-Tec Tools                                                   | 3             |
+| Bharat Bijlee Limited                                         | 3             |
+| Booking Koala                                                 | 3             |
+| Inbound Calls Private Limited                                 | 3             |
+| International Tractors Limited (Sonalika)                    | 3             |
+| JHEX Consulting LLP                                           | 3             |
+| Livspace (Home Interior Designs E-commerce Pvt. Ltd.)       | 3             |
+| Modern Automotives Limited                                    | 3             |
+| Pearce Services                                               | 3             |
+| Richville Infra Pvt. Ltd.                                     | 3             |
+| Step2Gen Technologies Pvt. Ltd.                               | 3             |
+| TTEC Holdings, Inc.                                           | 3             |
+| VNG Medical Innovation System Pvt. Ltd.                      | 3             |
+| Youngman Woollen Mills Pvt. Ltd.                              | 2.64          |
+| Linkage IT                                                    | 2.6           |
+| Bonn Nutrients Pvt. Ltd.                                      | 2.4           |
+| Damsun India Pvt. Ltd.                                        | 2.4           |
+| Hero Motors Limited                                           | 2.4           |
+| Intrainz Innovation Private Limited                           | 2.4           |
+| TARC Limited                                                  | 2.4           |
+| FMI Limited (FREEMANS)                                        | 2.16          |
+| Intellipaat Software Solutions Pvt. Ltd.                     | 2             |
 
 ## [Placement Highlights 2025](Placement_highlights_2023.md)
 
