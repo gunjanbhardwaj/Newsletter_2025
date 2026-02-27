@@ -143,18 +143,18 @@ Dr. Munish Rattan
 
 | Sr. No. | Name of Event                                                  | Faculty Coordinator           | Duration | Date(s)               | Sponsor(s) |
 |:--------|:---------------------------------------------------------------|:------------------------------|:---------|:----------------------|:-----------|
-| 1     | Expert Talk on PLC by Satnam Singh                             | **Dr. Shivmanmeet Singh** | 1 day    | 14-08-2024      | IETE GNDEC                      |
-| 2     | Core team Meeting                                              | **Dr. Shivmanmeet Singh** | 1 day    | 20-08-2024      | IETE GNDEC                      |
-| 3     | Workshop on cyber security                                     | **Dr. Shivmanmeet Singh** | 1 day    | 03-09-2024      | IETE GNDEC                      |
-| 4     | Hands on experience                                            | **Dr. Shivmanmeet Singh** | 1 day    | 11-10-2024      | IETE GNDEC                      |
-| 5     | digital Artistry                                              | **Dr. Shivmanmeet Singh** | 1 day    | 14-10-2024      | IETE GNDEC                      |
-| 6     | 2-day Workshop                                                | **Dr. Shivmanmeet Singh** | 2 days   | 28-10-2024      | IETE GNDEC                      |
-| 7     | 3D- printing workshop                                         | **Dr. Shivmanmeet Singh** | 1 day    | 13-11-2024      | IETE GNDEC                      |
-| 8     | Technova                                                     | **Dr. Shivmanmeet Singh** | 1 day    | 25-11-2024      | IETE GNDEC                      |
-| 9     | Electrified Quizzers                                         | **Dr. Shivmanmeet Singh** | 1 day    | 03-02-2025      | IETE GNDEC                      |
-| 10    | visit to PEC                                                | **Dr. Shivmanmeet Singh** | 1 day    | 26-03-2025      | IETE GNDEC                      |
-| 11    | Mobile chipset repair workshop                              | **Dr. Shivmanmeet Singh** | 1 day    | 11-04-2025      | IETE GNDEC                      |
-| 12    | Guess-a-graphy                                             | **Dr. Shivmanmeet Singh** | 1 day    | 23-04-2025      | IETE GNDEC                      |
+| 1     | Expert Talk on PLC by Satnam Singh                             | Dr. Shivmanmeet Singh | 1 day    | 14-08-2024      | IETE GNDEC                      |
+| 2     | Core team Meeting                                              | Dr. Shivmanmeet Singh | 1 day    | 20-08-2024      | IETE GNDEC                      |
+| 3     | Workshop on cyber security                                     | Dr. Shivmanmeet Singh | 1 day    | 03-09-2024      | IETE GNDEC                      |
+| 4     | Hands on experience                                            | Dr. Shivmanmeet Singh | 1 day    | 11-10-2024      | IETE GNDEC                      |
+| 5     | digital Artistry                                              | Dr. Shivmanmeet Singh | 1 day    | 14-10-2024      | IETE GNDEC                      |
+| 6     | 2-day Workshop                                                | Dr. Shivmanmeet Singh | 2 days   | 28-10-2024      | IETE GNDEC                      |
+| 7     | 3D- printing workshop                                         | Dr. Shivmanmeet Singh | 1 day    | 13-11-2024      | IETE GNDEC                      |
+| 8     | Technova                                                     | Dr. Shivmanmeet Singh | 1 day    | 25-11-2024      | IETE GNDEC                      |
+| 9     | Electrified Quizzers                                         | Dr. Shivmanmeet Singh | 1 day    | 03-02-2025      | IETE GNDEC                      |
+| 10    | visit to PEC                                                | Dr. Shivmanmeet Singh | 1 day    | 26-03-2025      | IETE GNDEC                      |
+| 11    | Mobile chipset repair workshop                              | Dr. Shivmanmeet Singh | 1 day    | 11-04-2025      | IETE GNDEC                      |
+| 12    | Guess-a-graphy                                             | Dr. Shivmanmeet Singh | 1 day    | 23-04-2025      | IETE GNDEC                      |
 | 13    | One week short term course on “AI applications in VLSI design” in collaboration with NITTTR, Chandigarh | **Dr. Chahat Jain**       | 5 days   | July 14-18, 2025 | NITTTR Chandigarh and GNDEC     |
 
 
@@ -261,7 +261,7 @@ Dr. Munish Rattan
 
 ## Expert Lecture delivered
 
-![Students](Images/gpk.png)
+![Students](Images/gpk.jpg)
 
 - **Gurpurneet Kaur**, delivered expert lecture on Counter Design using HDL, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on FPGA Implementation of Counter Design, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on Overview of HDL using Vivado Design Suite, at GNDEC, Ludhiana, 16/12/2024 – 21/12/2024; delivered expert lecture on Enhancing Energy Efficiency in VLSI Circuits through GA and WOA-based Optimization Techniques, at GNDEC, Ludhiana (in collaboration with NITTTR, Chandigarh), 14/07/2025 – 18/07/2025; and delivered expert lecture on Mini Projects using Raspberry Pi, at GNDEC, Ludhiana, 19/02/2025 – 05/03/2025.
 
