@@ -76,7 +76,7 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 ![Students](Images/zzz2.jpg)
 -----------------------------------------
 
-### Project Design using Arduino and Raspberry Pi
+### Project Design using Arduino and Raspberry Pi from 23, June 2025 to 18, July 2025
 
 ![Students](Images/bi.jpg)
 
