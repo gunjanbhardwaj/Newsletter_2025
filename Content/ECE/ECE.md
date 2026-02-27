@@ -76,6 +76,12 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 ![Students](Images/zzz2.jpg)
 -----------------------------------------
 
+### Project Design using Arduino and Raspberry Pi
+
+![Students](Images/bi.jpg)
+
+-----------------------------------------
+
 ### Visit to Bharat Electronics on 30, June 2025
 
 ![Students](Images/bi.jpg)
@@ -84,6 +90,8 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 
 ## Faculty Achievements  
+
+- **Shivmanmeet Singh** has completed Ph.D in Jan 2025 from GNDEC, Ludhiana (Under Automonous Status).
 
 - **Preeti Pannu** reveiewer for 2 manuscripts in Transactions on Emerging Telecommunications Technologies in 2024.
   
