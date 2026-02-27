@@ -60,7 +60,9 @@ Co-Coordinator: Prof. Kunwarpartap Singh
 -----------------------------------------
 
 ### Two weeks value added workshop on Hands on Training Program on Embedded systems and VLSI from 19, Feb 2025 to 5, March 2025
-Co-Coordinators: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
+Chief Coordinator: Dr. Narwant Singh Grewal
+Coordinator: Dr Munish Rattan and Dr. Baljit Kaur
+Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 ![Students](Images/tdc.jpg)
 
