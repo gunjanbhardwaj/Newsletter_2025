@@ -388,8 +388,8 @@ Dr. Munish Rattan
 | S. No. | Name of Faculty | Name of Project | Funding Agency | Category | Amount (Rupees) | Duration | Date of Starting & Completion | Remarks |
 |--------|------------------|------------------|----------------|----------|------------------|----------|-------------------------------|----------|
 | 1 | Gurpurneet Kaur, Harminder Kaur D/o S. Avtar Singh, Preeti Pannu, Shivmanmeet Singh | Project Design Using Microcontrollers | Private (Testing and Consultancy, GNDEC, Ludhiana) | Consultancy |  | Four Weeks | June 2024-July, 2024 | Completed |
-| 2 | Kuldeepak Singh, Daljit Singh, Kunwar Partap Singh | Advanced Simulation Techniques for PLC Automation and IoT in Embedded System |  | Consultancy |  |  |  |  |
-| 3 | Shivmanmeet Singh | Rebotics with ML |  | Consultancy |  |  |  |  |
+| 2 | Kuldeepak Singh, Daljit Singh, Kunwar Partap Singh | Advanced Simulation Techniques for PLC Automation and IoT in Embedded System |  | Private (Testing and Consultancy, GNDEC, Ludhiana) | Consultancy |  | Four Weeks | June 2024-July, 2024 | Completed |
+| 3 | Shivmanmeet Singh | Rebotics with ML | | Private (Testing and Consultancy, GNDEC, Ludhiana) | Consultancy |  | Four Weeks | June 2024-July, 2024 | Completed |
 
 **Note:** The total combined consultancy fund for all three projects is **Rs. 2,94,000**.
 ## Student's Corner  
