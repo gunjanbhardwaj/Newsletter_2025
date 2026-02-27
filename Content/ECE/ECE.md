@@ -392,6 +392,14 @@ Dr. Munish Rattan
 | 3 | Shivmanmeet Singh | Rebotics with ML | Private (Testing and Consultancy, GNDEC, Ludhiana) | Consultancy |  | Four Weeks | June 2024-July, 2024 | Completed |
 
 **Note:** The total combined consultancy fund for all three projects is **Rs. 2,94,000**.
+
+
+# List of Fund
+# Session 2024-2025 – Faculty Projects / Grants
+
+| S. No. | Name of Faculty | Name of Project | Funding Agency | Category | Amount (Rupees) | Duration | Date of Starting & Completion | Remarks |
+|--------|----------------|----------------|----------------|----------|-----------------|----------|-------------------------------|---------|
+| 1 | Munish Rattan, Gurpurneet Kaur | Alumni Grant | GNDEC, Ludhiana | Grants | Rs 25,000 | One year | 2025 | Completed |
 ## Student's Corner  
 
 #### - Student's Achievements
