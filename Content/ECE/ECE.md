@@ -367,13 +367,15 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 #### - Student's Achievements
 
+![Students](Images/HH1.png) ![Students](Images/HH2.png) ![Students](Images/HH3.png) ![Students](Images/HH4.png) ![Students](Images/HH5.png)
+
+**Tanmay Kaushal (URN: 2302934)** participated in *All Inida Basic Mountaineering Couse* at Nehru Institute Of Mountaineering  and Awaded as **Best Mountanier** among Punjab Haryana Himachal Pardesh & Chandigarh Directorate , 08-10-2025.  
+
+**Krishan Kumar (URN: 2435418)** participated in *Re Brand* at Guru Nanak Dev Engineering College, securing **3rd place**, 06-02-2025 &  *MERAKI Hack-the-Throne* Hackathon at IIIT UNA (National Level) – Participation, 07-02-2026.   
+
 **Navjot Singh (URN: 2435424)** participated in multiple events including *Reel and Video Making Competition*, *Cut to Campus E-Vision* at GNDEC, *Social Media Campaign* at CGC Mohali, *Tech Reel* at Khalsa College, and *Video Editing Workshop* at GNDEC, securing **1st place in all events**, 26-07-2024.  
 
-**Rishu Jaiswal (URN: 2435436)** participated in *CraftPrix 2.0* at GNDEC Ludhiana and secured **2nd place**, 13-02-2025.  
-
 **Aasa Singh (URN: 2302844)** participated in *Genconian CraftPrix 2.0* at Guru Nanak Dev Engineering College and secured **1st place** in RC Car Competition, 13-02-2025.  
-
-**Krishan Kumar (URN: 2435418)** participated in *Re Brand* at Guru Nanak Dev Engineering College, securing **3rd place**, 06-02-2025.  
 
 **Arnav Bhardwaj (URN: 2302860)** participated in *Guess a Graphy* at GNDEC and secured **2nd place**, 23-04-2025.  
 
@@ -385,11 +387,7 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 **Armaan Dugh (URN: 2302859)** participated in *Hacknauts – Code for Change: Campus Edition* at MBA Block, GNDEC, and was declared **winner**, 16-11-2025.  
 
-**Snover (URN: 2435447)** participated in *Idea and Innovation Competition* at Vijaywada, securing **4th place**, 16-11-2025.  
-
-**Snover (URN: 2435447)** participated in *Drone Camp and IIC* at GNDEC and Vijaywada, securing **4th place in both competitions**, 02-01-2026.  
-
-**Krishan Kumar (URN: 2435418)** participated in *MERAKI Hack-the-Throne* Hackathon at IIIT UNA (National Level) – Participation, 07-02-2026.  
+**Snover (URN: 2435447)** participated in *Idea and Innovation Competition* at Vijaywada, securing **4th place**, 16-11-2025 & *Drone Camp and IIC* at GNDEC and Vijaywada, securing **4th place in both competitions**, 02-01-2026.    
 
 **Jagjot Singh (URN: 2104387)** secured *Third Prize* in **CSAW 2024 (BioHack3D)**.  
 
