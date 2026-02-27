@@ -64,7 +64,7 @@ Chief Coordinator: Dr. Narwant Singh Grewal
 Coordinator: Dr Munish Rattan and Dr. Baljit Kaur
 Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
-![Students](Images/tdc.jpg)
+![Students](Images/wwww.jpg)
 
 -----------------------------------------
 
