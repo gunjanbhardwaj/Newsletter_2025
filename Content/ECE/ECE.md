@@ -315,6 +315,73 @@ Dr. Munish Rattan
 
 - **Gurpurneet Kaur**, delivered expert lecture on Counter Design using HDL, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on FPGA Implementation of Counter Design, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on Overview of HDL using Vivado Design Suite, at GNDEC, Ludhiana, 16/12/2024 – 21/12/2024; delivered expert lecture on Enhancing Energy Efficiency in VLSI Circuits through GA and WOA-based Optimization Techniques, at GNDEC, Ludhiana (in collaboration with NITTTR, Chandigarh), 14/07/2025 – 18/07/2025; and delivered expert lecture on Mini Projects using Raspberry Pi, at GNDEC, Ludhiana, 19/02/2025 – 05/03/2025.
 
+## Placement Record
+# 2024 PASSOUT STUDENTS
+
+| Sr. No. | URN | Name of Student | Company Name | Annual Salary (LPA) |
+|---------|------|----------------|--------------|----------------------|
+| 1 | 2004788 | Adarsh Singh | Airtel | 5.57 |
+| 2 | 2004842 | Pranjal Patel | Airtel | 5.57 |
+| 3 | 2004872 | Vishal Gupta | Amber Enterprises | 3.5 |
+| 4 | 2004864 | Sunita Rao | Amber Enterprises | 3.5 |
+| 5 | 2004980 | Sagar Gaba | Amber Enterprises | 3.5 |
+| 6 | 2004787 | Abhishek Kumar Verma | Corizo | 4 |
+| 7 | 2104445 | Chandan Kumar Mandal | FAIRDEAL COMPONENTS LIMITED | 2.16-2.40 |
+| 8 | 2004846 | Rahul Kumar | FAIRDEAL COMPONENTS LIMITED | 2.4-2.64 |
+| 9 | 2004454 | Nitish Kumar | FAIRDEAL COMPONENTS LIMITED | 2.4-2.64 |
+| 10 | 2004795 | Aman Kumar | FAIRDEAL COMPONENTS LIMITED | 2.4-2.64 |
+| 11 | 2004483 | Sudhanshu Ranjan | KES Security Pvt. Ltd. | 2.4 |
+| 12 | 2104443 | Amandeep Singh | KES Security Pvt. Ltd. | 2.4 |
+| 13 | 2004840 | Prabhat Kumar | KES Security Pvt. Ltd. | 2.4 |
+| 14 | 2004840 | Prabhat Kumar | Spectrum Automation & Controls | 3.18 |
+| 15 | 2004792 | Alok Kumar | Spectrum Automation & Controls | 3.18 |
+| 16 | 2004807 | Ashwin Sharma | Academor | 6.00-8.00 |
+| 17 | 2004871 | Vinay Gupta | Academor | 6.00-8.00 |
+| 18 | 2004850 | Ratshak Gulati | JBS Royal Touch India Private Limited | 9.0-11.0 |
+| 19 | 2004837 | Parul Sharma | TCS (Ninja) | 3.36 |
+| 20 | 2004857 | Shivam Sharma | Airnet Travels and Cargo Pvt. Ltd. | 1.92 |
+| 21 | 2004809 | Bhagya Bharti Khajuria | Kion Group-Dematic | 4 |
+| 22 | 2004818 | Harleen Kaur | Kion Group-Dematic | 4 |
+| 23 | 2004797 | Amiteshwar Singh | MWIDM | 1.8 |
+| 24 | 2005016 | Abhay Saxena | MWIDM | 1.8 |
+| 25 | 2005233 | Nisha Goyal | MWIDM | 1.8 |
+| 26 | 2004454 | Nitish Kumar | R.J. Solar | 5 |
+| 27 | 2004840 | Prabhat Kumar | R.J. Solar | 5 |
+| 28 | 2004853 | Sachin Kumar | R.J. Solar | 5 |
+| 29 | 2004839 | Poonam Grover | Kion India Private Limited | 4 |
+
+# 2025 PASSOUT STUDENTS
+
+| Sr. No. | URN | Name of Student | Name of Company | Salary |
+|---------|------|----------------|------------------|---------|
+| 1 | 2104449 | Jivesh Sharma | Innow 8, Mohali | 23,000/- |
+| 2 | 2004806 | Arpan Behl | Karma Qatar Job Oil Refinery |  |
+| 3 | 2134682 | Gurtej singh | T&D Electronics, Ludhiana | 23,000/- |
+| 4 | 2104430 | Suraj Pathania | Pearce Services Global Private Limited | 25,000/- |
+| 5 | 2104420 | Saadgi Bawa | Antiers Solution, Mohali | 12,000/- |
+| 7 | 2104439 | Vishal Garg | Congruex Asia Pacific LLP (Optical fiber) | 45,000/- |
+| 9 | 2104422 | Satyansh sharma | Infosys | 3.9 LPA |
+| 10 | 2104434 | Upmeet kaur | Congruex Asia Pacific LLP | 45,000/- |
+| 11 | 2104394 | khushi Pandey | Pearce, Mohali | 3 LPA |
+| 13 | 2104432 | Tamanna Sharma | Pearce, Mohali | 5 LPA |
+| 14 | 2104260 | Harmandeep Singh | Pearce, Gurugram | 3.5LPA |
+| 15 | 2104385 | Harsh Upadhyay | Tatras Data service private Ltd (ML) | 48000 |
+| 16 | 2104404 | Nitan Chowdhary | Beats Byjayj | 54000 |
+| 18 | 2104415 | Rishabh Kumar | Prime Steel Processor | 3.8 LPA |
+| 19 | 2104351 | Abhisekh bansal | Prime Steel Processor | 3.8 LPA |
+| 20 | 2104357 | Amandeep | New Swan enterprises | 3.4 LPA |
+| 21 | 2104398 | Manjeet Kumar | Sabki App Private Ltd |  |
+| 22 | 2104427 | Simarjot Singh | Infosys | 3.6 |
+| 26 | 2104403 | Neha Gupta | Pearce, Mohali | 3.5LPA |
+| 27 | 2104354 | Ajeet Mishra | Marques Pvt ltd | 3.85 |
+| 28 | 2104402 | Naveen Kumar | Provana Pvt Ltd | 3 LPA |
+| 30 | 2104413 | Rashmi Kumari | Swaraj Division of Mahindra | 4.2 LPA |
+| 31 | 2104409 | Parveen Raj | Swaraj Division of Mahindra | 4.2 LPA |
+| 32 | 2134680 | Anmol Srivastav | 3 Columns |  |
+| 34 | 2104376 | Charanjot Singh | Eco Powe Solutions |  |
+| 35 | 2104412 | Pushpraj Dwevedi | CWEB Consultant, Mohali | 15k Per Month |
+| 36 | 2104453 | Satnam Singh | Fast Way | 30000 |
+
 ## Student's Corner  
 
 #### - Student's Achievements
