@@ -359,8 +359,8 @@ Dr. Munish Rattan
 -----------------------------------------
 ### Guess-a-Graphy
 
-![Advisor Session (Wireless Communication)](Images/gag1.JPG)
-![Advisor Session (Wireless Communication)](Images/gag2.JPG)
+![Advisor Session (Guess-a-Graphy)](Images/gag2.JPG)
+![Advisor Session (Guess-a-Graphy)](Images/gag1.JPG)
 
 - <div align="jutify">ISF organise a fun event named” Guess-a-Graphy” based on general knowledge on 23 of April 2025.Guess-a-Graphy was a thrilling and intellectually engaging quiz competition that tested participants’ knowledge of the corporate world through three dynamic rounds.</div>
 
