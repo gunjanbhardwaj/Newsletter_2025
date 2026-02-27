@@ -72,7 +72,8 @@ Coordinator: Dr Munish Rattan and Dr. Baljit Kaur
 Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 ![Students](Images/wwww.jpg)
-
+![Students](Images/zzz1.jpg)
+![Students](Images/zzz2.jpg)
 -----------------------------------------
 
 ### Visit to Bharat Electronics on 30, June 2025
